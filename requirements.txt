@@ -1,0 +1,3 @@
+moviepy[optional]
+ez_setup
+ffmpeg
